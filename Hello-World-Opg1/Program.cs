@@ -11,7 +11,8 @@ namespace Hello_World_Opg1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello Country");
+            Console.WriteLine("Hello City");
             Console.ReadKey();
         }
     }
